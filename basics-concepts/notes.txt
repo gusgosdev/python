@@ -1,0 +1,21 @@
+##### Algunas notas de Python #####
+
+
+- PyCharm = IDE recomendado para Python
+_____________________________________________________________________________________________________________
+# Buenas prácticas
+- Se recomienda usar la anotación de snake case para nombrar a las variables
+_____________________________________________________________________________________________________________
+# Tipos de datos
+Entero      = 5
+Flotante    = 10.5
+Cadena      = 'Messi'
+________________________________________________________________________________________________________
+# Reglas definir el nombre de variables
+
+1. Comenzar con letra o guion bajo, NO con número 
+2. Puede continuar con letras, numeros o guion bajo
+3. Sensible a mayusculas y minusculas
+4. No se pueden usar palabras reservadas (keyword)
+_____________________________________________________________________________________________________________
+# 
